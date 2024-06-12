@@ -1,7 +1,6 @@
 Sekumpulan program arduino dan pixhawk
 
-=============================
-=Elektronis Roboboat 2024/25=
-=============================
+Elektronis Roboboat 2024/25
+
 
 
